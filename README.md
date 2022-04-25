@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vTwinsz
-- 👀 I’m interested in anything to do with Space, Physics, & Science! 
-- 🌱 I’m currently an undergraduate studying physics!
+- 👋 Hi, my name is Daniel Lyon!
+- 👀 I’m interested in anything to do with Astronomy, Rocketry, Physics, & Python! 
+- 🌱 I’m currently a penultimate undergraduate majoring in physics!
 - 💞️ I’m not looking to collaborate just yet, sorry!
 
 <!---
